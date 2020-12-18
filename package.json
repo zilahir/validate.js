@@ -35,7 +35,7 @@
     "grunt-contrib-watch": "1.0.0",
     "grunt-contrib-jshint": "1.0.0",
     "grunt-contrib-uglify": "1.0.1",
-    "grunt-contrib-jasmine": "1.0.3",
+    "grunt-contrib-jasmine": "2.2.0",
     "grunt-docco": "0.4.0",
     "grunt-template-jasmine-istanbul": "0.4.0",
     "coveralls": "2.11.9"
